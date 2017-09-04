@@ -13,6 +13,5 @@ class ListaNegociacoes{
 
     esvazia(){
         this._negociacoes = [];
-        this._armadilha(this);
     }
 }
